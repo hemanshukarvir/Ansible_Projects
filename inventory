@@ -1,3 +1,0 @@
-[webusers]
-stage01 ansible_host=172.31.36.90 prpc_node_type=WebUser
-stage02 ansible_host=172.31.35.249 prpc_node_type=StreamUser
